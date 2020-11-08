@@ -9,6 +9,10 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 ### Security
 -->
+## [v0.1.0] 11-8-2020
+### Fixed
+* Found bug with links. Went through and corrected all of them.
+
 ## [v0.1.0] 11-7-2020
 ### Added
 Initial Release for L'Arsène's Ludicrous Larceny 

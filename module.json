@@ -4,7 +4,7 @@
     "description": "<p>A DnD5e Adventure by many artists</p>",
     "systems": ["dnd5e"],
     "author": "Jon Whitehouse - MTGCarver#7753",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "minimumCoreVersion" : "0.7.5",
     "compatibleCoreVersion" : "0.7.6",
     "scripts" : [],
