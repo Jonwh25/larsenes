@@ -1,4 +1,4 @@
-#L'Arsène's Ludicrous Larceny
+# L'Arsène's Ludicrous Larceny
 ![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Jonwh25/larsenes?style=for-the-badge) 
 ![GitHub Releases](https://img.shields.io/github/downloads/Jonwh25/larsenes/latest/total?style=for-the-badge) 
 ![GitHub All Releases](https://img.shields.io/github/downloads/Jonwh25/larsenes/total?style=for-the-badge&label=Downloads+total) 
