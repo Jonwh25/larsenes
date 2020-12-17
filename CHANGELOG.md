@@ -9,6 +9,10 @@ All notable changes to this project will be documented in this file.
 ### Fixed
 ### Security
 -->
+## [v0.1.1] 12-16-2020
+### Changed
+* Made updates to core versions to reflect 0.7.8 of Foundry
+
 ## [v0.1.0] 11-8-2020
 ### Fixed
 * Found bug with links. Went through and corrected all of them.
