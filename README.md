@@ -1,4 +1,6 @@
-<img alt="Foundry Version" src="https://img.shields.io/badge/FoundryVTT-0.7.6%2B-green"> <img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Jonwh25/larsenes?style=flat-square"> <img alt="GitHub Releases" src="https://img.shields.io/github/downloads-pre/Jonwh25/larsenes/latest/total?style=flat-square">  
+<img alt="Foundry Version" src="https://img.shields.io/badge/FoundryVTT-0.7.8%2B-green"> 
+<img alt="GitHub release (latest by date)" src="https://img.shields.io/github/v/release/Jonwh25/larsenes?style=flat-square"> 
+<img alt="GitHub Releases" src="https://img.shields.io/github/downloads-pre/Jonwh25/larsenes/latest/total?style=flat-square">  
 
 # L'Arsène's Ludicrous Larceny 
 This adventure was adapted into Foundry by Jon Whitehouse and the rest was brought to you by:
