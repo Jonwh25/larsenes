@@ -1,8 +1,6 @@
-<div class='wide'><center>
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Jonwh25/larsenes?style=flat-square)
-![GitHub Releases](https://img.shields.io/github/downloads/Jonwh25/larsenes/latest/total?style=flat-square)
-![GitHub All Releases](https://img.shields.io/github/downloads/Jonwh25/larsenes/total?style=flat-square&label=Downloads+total)
-</div></center>
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/Jonwh25/larsenes?style=for-the-badge)
+![GitHub Releases](https://img.shields.io/github/downloads/Jonwh25/larsenes/latest/total?style=for-the-badge)
+![GitHub All Releases](https://img.shields.io/github/downloads/Jonwh25/larsenes/total?style=for-the-badge&label=Downloads+total)
 
 # L'Arsène's Ludicrous Larceny 
 The infamous thief and gadgeteer, L’Arsène Upin, and his oft-pursued friend, Harried Houdinky, have set their sights on a most guarded treasure; the chromanova. However, with Houdinky misplaced whilst casing the joint, and L’Arsène’s last ‘subcontractors’ missing in action, he turns now to the party. Will the players learn to glide in squirrelsuits? Will they escape the warded stones of the lofty, old wizard’s tower? Will they even find a way in!?
