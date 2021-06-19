@@ -6,7 +6,7 @@
     "author": "Jon Whitehouse - MTGCarver#7753",
     "version": "0.1.4",
     "minimumCoreVersion" : "0.7.9",
-    "compatibleCoreVersion" : "0.8.6",
+    "compatibleCoreVersion" : "0.8.7",
     "scripts" : [],
     "esmodules" : [],
     "styles" : [],
