@@ -1,75 +1,100 @@
 {
-    "name": "larsenes",
-    "title": "L'Arsène's Ludicrous Larceny",
-    "description": "<p>A DnD5e Adventure by many artists</p>",
-    "systems": ["dnd5e"],
-    "author": "Jon Whitehouse - MTGCarver#7753",
-    "version": "0.1.8",
-    "minimumCoreVersion" : "0.7.9",
-    "compatibleCoreVersion" : "0.8.9",
-    "scripts" : [],
-    "esmodules" : [],
-    "styles" : [],
-    "packs" : [
-        {
-            "name" : "larsene-actors",
-            "label" : "Larsene Monsters",
-            "path" : "packs/larsene-actors.db",
-            "module" : "Larsene",
-            "entity" : "Actor"
-        },
-        {
-            "name" : "larsene-items",
-            "label" : "Larsene Items",
-            "path" : "packs/larsene-items.db",
-            "module" : "Larsene",
-            "entity" : "Item"
-        },
-        {
-            "name" : "larsene-spells",
-            "label" : "Larsene Spells",
-            "path" : "packs/larsene-spells.db",
-            "module" : "Larsene",
-            "entity" : "Item"
-        },
-        {
-            "name" : "larsene-races",
-            "label" : "Larsene Races",
-            "path" : "packs/larsene-races.db",
-            "module" : "Larsene",
-            "entity" : "Item"
-        },
-        {
-            "name" : "larsene-journal",
-            "label" : "Larsene Journals",
-            "path" : "packs/larsene-journal.db",
-            "module" : "Larsene",
-            "entity" : "JournalEntry"
-        },
-        {
-            "name" : "larsene-playlists",
-            "label" : "Larsene Playlists",
-            "path" : "packs/larsene-playlists.db",
-            "module" : "Larsene",
-            "entity" : "Playlist"
-        },
-        {
-            "name" : "larsene-rolltable",
-            "label" : "Larsene Rolltables",
-            "path" : "packs/larsene-tables.db",
-            "module" : "Larsene",
-            "entity" : "RollTable"
-        },
-        {
-            "name" : "larsene-maps",
-            "label" : "Larsene Maps",
-            "path" : "packs/larsene-maps.db",
-            "module" : "Larsene",
-            "entity" : "Scene"
-        }
-    ],
-    "languages" : [],
-    "manifest" : "https://github.com/Jonwh25/larsenes/releases/latest/download/module.json",
-    "download" : "https://github.com/Jonwh25/larsenes/releases/latest/download/larsenes.zip",
-    "url" : "https://github.com/Jonwh25/larsenes"
-  }
+  "name": "larsenes",
+  "title": "L'Arsène's Ludicrous Larceny",
+  "description": "<p>A DnD5e Adventure by many artists</p>",
+  "author": "Jon Whitehouse - MTGCarver#7753",
+  "authors": [],
+  "url": "https://github.com/Jonwh25/larsenes",
+  "flags": {},
+  "version": "0.1.8",
+  "minimumCoreVersion": "0.7.9",
+  "compatibleCoreVersion": "0.8.9",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "name": "larsene-actors",
+      "label": "Larsene Monsters",
+      "path": "packs/larsene-actors.db",
+      "module": "Larsene",
+      "entity": "Actor",
+      "type": "Actor",
+      "private": false
+    },
+    {
+      "name": "larsene-items",
+      "label": "Larsene Items",
+      "path": "packs/larsene-items.db",
+      "module": "Larsene",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "larsene-spells",
+      "label": "Larsene Spells",
+      "path": "packs/larsene-spells.db",
+      "module": "Larsene",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "larsene-races",
+      "label": "Larsene Races",
+      "path": "packs/larsene-races.db",
+      "module": "Larsene",
+      "entity": "Item",
+      "type": "Item",
+      "private": false
+    },
+    {
+      "name": "larsene-journal",
+      "label": "Larsene Journals",
+      "path": "packs/larsene-journal.db",
+      "module": "Larsene",
+      "entity": "JournalEntry",
+      "type": "JournalEntry",
+      "private": false
+    },
+    {
+      "name": "larsene-playlists",
+      "label": "Larsene Playlists",
+      "path": "packs/larsene-playlists.db",
+      "module": "Larsene",
+      "entity": "Playlist",
+      "type": "Playlist",
+      "private": false
+    },
+    {
+      "name": "larsene-rolltable",
+      "label": "Larsene Rolltables",
+      "path": "packs/larsene-tables.db",
+      "module": "Larsene",
+      "entity": "RollTable",
+      "type": "RollTable",
+      "private": false
+    },
+    {
+      "name": "larsene-maps",
+      "label": "Larsene Maps",
+      "path": "packs/larsene-maps.db",
+      "module": "Larsene",
+      "entity": "Scene",
+      "type": "Scene",
+      "private": false
+    }
+  ],
+  "system": [
+    "dnd5e"
+  ],
+  "dependencies": [],
+  "socket": false,
+  "manifest": "https://github.com/Jonwh25/larsenes/releases/latest/download/module.json",
+  "download": "https://github.com/Jonwh25/larsenes/releases/latest/download/larsenes.zip",
+  "protected": false,
+  "coreTranslation": false,
+  "library": false
+}
